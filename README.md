@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @hexaheximal
-- 📫 How to reach me: hexaheximal@proton.me
+- 📫 How to reach me:
+  - Email: hexaheximal@proton.me
+  - Matrix: [@hexaheximal:matrix.org](https://matrix.to/#/@hexaheximal:matrix.org)
