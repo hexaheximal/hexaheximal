@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @hexaheximal
+- I use [Debian](https://debian.org) [bullseye](https://www.debian.org/releases/bullseye)
 - 📫 How to reach me:
   - Email: hexaheximal@proton.me
   - Matrix: [@hexaheximal:matrix.org](https://matrix.to/#/@hexaheximal:matrix.org)
